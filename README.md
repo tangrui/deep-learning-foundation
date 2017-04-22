@@ -11,3 +11,7 @@
 ## Project 3: Generate TV Scripts
 
 * [Materials](https://github.com/udacity/deep-learning/tree/master/tv-script-generation)
+
+## Project 4: Translation Project
+
+* [Materials](https://github.com/udacity/deep-learning/tree/master/language-translation)
