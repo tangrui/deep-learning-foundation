@@ -15,3 +15,7 @@
 ## Project 4: Translation Project
 
 * [Materials](https://github.com/udacity/deep-learning/tree/master/language-translation)
+
+## Project 5: Generate Faces
+
+* [Materials](https://github.com/udacity/deep-learning/tree/master/face_generation)
